@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EMDutch-LLM-Finetune
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anonymous
+url: >-
+  https://anonymous.4open.science/r/EMDutch-LLM-Finetune-744E/README.md
+abstract: >-
+  This repository is for the paper "Fine-Tuning
+  Large-Language Models for Early Modern Dutch Translation"
+  and contains all the notebooks and data used to run the
+  experiments present in the research paper. By using this
+  repository it is possible to recreate and rerun the
+  trainings, tests, and evaluations performed in the
+  research paper.
